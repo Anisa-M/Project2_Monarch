@@ -1,11 +1,11 @@
 html {
-    background-color: white;
+    background-color: black;
 }
 h1, h2, h3, h4, h5, h6 {
     color: orange;
 }
 P {
-    color: black;
+    color: white;
     font-size: 18px;
     font-family: Arial;
 }
