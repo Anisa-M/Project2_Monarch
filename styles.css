@@ -17,7 +17,7 @@ P {
   width: 200px;
   height: 200px;
 }
-.pictures {
+#pictures1, #pictures2, #pictures3 {
     display: flex;
     align-items: flex-start; /* Align items at the top, or use 'center' for vertical centering */
     gap: 15px; /* Space between image and text */
