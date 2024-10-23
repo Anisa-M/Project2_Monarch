@@ -14,8 +14,8 @@ P {
   display: block;
   margin-left: auto;
   margin-right: 50;
-  width: 50%;
-  height: 200px;
+  width: 20%;
+  height: 20%;
 }
 .pictures {
     display: flex;
